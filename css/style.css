@@ -1,4 +1,13 @@
 body{
-
+    
     text-align: center;
+
+}
+
+.container{
+
+
+max-width: 30px;
+margin: 100px;
+
 }
