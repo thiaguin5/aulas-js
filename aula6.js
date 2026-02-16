@@ -4,12 +4,21 @@
 //const
 //let
 
-var pote= "bombom";
 
 
 
-var a = 7;
-var b = 9;
-var c = a + b;
 
-alert(c);
+
+//declaração de variaveis 
+
+var sobrenome,nome,nomeEsobrenome
+
+
+//atribuição de valores
+sobrenome="amaral"
+
+nome="thiago"
+
+nomeEsobrenome= nome + " " + sobrenome
+
+document.getElementById("texto").innerHTML = nomeEsobrenome
