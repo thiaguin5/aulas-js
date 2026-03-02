@@ -13,3 +13,5 @@ maçaEbanana = maça + banana
 document.getElementById("texto").innerHTML = maçaEbanana
 
 }
+
+//resultado 11
